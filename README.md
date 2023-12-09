@@ -40,9 +40,10 @@ Skills:  REACT / JS / HTML / CSS
 
 
 <h4> live site:</h4>
+[https://brand-shop-client-e82f9.web.app]
 <p>
   
-## Project Overview##
+## Project Overview
 Brand Shop is a client-side web application designed to provide users with a seamless and enjoyable shopping experience for beauty and cosmetics products. Here are the key highlights of the project:
 
 **Product Showcase**: Brand Shop offers an extensive catalog of products from top beauty and cosmetics brands. Users can easily explore a wide range of products, view detailed descriptions, and make informed purchasing decisions.
@@ -56,7 +57,7 @@ Brand Shop is a client-side web application designed to provide users with a sea
 **Responsive Design**: The website is responsive and mobile-friendly, ensuring that users can access and shop for beauty products from their desktops, tablets, or smartphones with ease.
 </p>
  
-[https://brand-shop-client-e82f9.web.app]
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selina-khatun&show_icons=true&locale=en&layout=compact" alt="selina-khatun" /></p>
 
