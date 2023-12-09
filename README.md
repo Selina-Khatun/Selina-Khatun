@@ -35,11 +35,27 @@ Skills:  REACT / JS / HTML / CSS
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1> Projects</h1>
+<h3>our Brand Shop - Beauty and Cosmetics</h3>
 
-#Projects
-[our Brand Shop - Beauty and Cosmetics]
 
-###live site:
+<h4> live site:</h4>
+<p>
+  
+## Project Overview##
+Brand Shop is a client-side web application designed to provide users with a seamless and enjoyable shopping experience for beauty and cosmetics products. Here are the key highlights of the project:
+
+**Product Showcase**: Brand Shop offers an extensive catalog of products from top beauty and cosmetics brands. Users can easily explore a wide range of products, view detailed descriptions, and make informed purchasing decisions.
+
+***User-Friendly Interface***: The user interface is designed to be intuitive and easy to navigate. With a clean and modern design, users can effortlessly browse through the website, search for specific products, and add them to their cart.
+
+**Cart Management**: Users can add products to their shopping cart and review their selections before proceeding to checkout. The cart provides a summary of selected items, including their names, prices, and quantities.
+
+**User Authentication**: Brand Shop offers a user authentication system, allowing users to create accounts and log in. Registered users can enjoy personalized shopping experiences, including the ability to track their order history and manage their profiles.
+
+**Responsive Design**: The website is responsive and mobile-friendly, ensuring that users can access and shop for beauty products from their desktops, tablets, or smartphones with ease.
+</p>
+ 
 [https://brand-shop-client-e82f9.web.app]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selina-khatun&show_icons=true&locale=en&layout=compact" alt="selina-khatun" /></p>
