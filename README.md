@@ -56,8 +56,23 @@ Brand Shop is a client-side web application designed to provide users with a sea
 
 **Responsive Design**: The website is responsive and mobile-friendly, ensuring that users can access and shop for beauty products from their desktops, tablets, or smartphones with ease.
 </p>
+<h3>restaurant-management</h3>
+ <h4>live link:</h4>
+  [https://cut-pail-test.surge.sh/]
+ <p> 
  
+**Intuitive Interface**: Ensure a user-friendly design for easy navigation and accessibility.
 
+ **Real-time Updates**: Provide dynamic content, allowing instant changes to menus, prices, and promotions.
+
+**Mobile Responsiveness**: Optimize the website for seamless viewing and functionality across various devices.
+
+**Secure Transactions**: Implement robust encryption for safe and secure online reservations and payments.
+
+**Data Analytics**: Incorporate analytics tools to track user behavior, reservation patterns, and popular menu items for informed decision-making.
+ </p>
+
+ 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selina-khatun&show_icons=true&locale=en&layout=compact" alt="selina-khatun" /></p>
 
