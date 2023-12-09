@@ -30,7 +30,7 @@ Skills:  REACT / JS / HTML / CSS
 <a href="https://www.linkedin.com/in/selina-khatun-7550501a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selina khatun" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sada.megh.94402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="selina khatun" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/learn with seli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn with seli" height="30" width="40" /></a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Selina-Khatun)
+<a href="https://github.com/Selina-Khatun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Selina-Khatun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
