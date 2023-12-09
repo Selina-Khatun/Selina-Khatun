@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Selina Khatun</h1>
 
 <h3 align="center">Web Developer</h3>
+<p> I'm a frontend developer on a mission to craft captivating web experiences. My toolbox includes HTML, CSS, JavaScript and React which I use to turn design concepts into seamless, user-friendly interfaces. I'm all about clean, efficient code and staying on the cutting edge of web development trends. Whether it's experimenting with new frameworks or ensuring responsiveness, I'm committed to delivering top-notch solutions. Join me on this coding adventure, where innovation and creativity collide to shape the digital world. Let's build something beautiful together! 🚀✨
+
+Skills:  REACT / JS / HTML / CSS
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selina-khatun&label=Profile%20views&color=0e75b6&style=flat" alt="selina-khatun" /> </p>
 
