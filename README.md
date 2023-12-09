@@ -1,4 +1,7 @@
+![Web Developer](https://i.ibb.co/XF7NNB1/Black-Technology-Linked-In-Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Selina Khatun</h1>
+
 <h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selina-khatun&label=Profile%20views&color=0e75b6&style=flat" alt="selina-khatun" /> </p>
@@ -19,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/selina khatun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selina khatun" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/selina-khatun-7550501a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selina khatun" height="30" width="40" /></a>
 <a href="https://fb.com/selina khatun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="selina khatun" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/learn with seli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn with seli" height="30" width="40" /></a>
 </p>
