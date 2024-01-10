@@ -40,7 +40,7 @@ Skills:  REACT / JS / HTML / CSS
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selina-khatun&show_icons=true&locale=en&theme=merko" alt="selina-khatun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selina-khatun&theme=tokyonight" alt="selina-khatun" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selina-khatun&theme=merko" alt="selina-khatun" /></p>
 
 
 <h1> Projects</h1>
