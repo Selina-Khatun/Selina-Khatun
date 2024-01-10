@@ -78,5 +78,5 @@ Brand Shop is a client-side web application designed to provide users with a sea
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selina-khatun&show_icons=true&locale=en&theme=merko" alt="selina-khatun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selina-khatun&" alt="selina-khatun" /></p>
-![Red](https://raw.github.com/williambelle/github-contribution-color-graph/master/docs/contributions-red.png)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selina-khatun&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&" alt="selina-khatun" /></p>
+
