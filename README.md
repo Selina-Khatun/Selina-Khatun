@@ -68,6 +68,7 @@ Brand Shop is a client-side web application designed to provide users with a sea
 **Mobile Responsiveness**: Optimize the website for seamless viewing and functionality across various devices.
 
 **Secure Transactions**: Implement robust encryption for safe and secure online reservations and payments.
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 **Data Analytics**: Incorporate analytics tools to track user behavior, reservation patterns, and popular menu items for informed decision-making.
  </p>
