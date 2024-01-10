@@ -39,14 +39,19 @@ Skills:  REACT / JS / HTML / CSS
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selina-khatun&show_icons=true&locale=en&layout=compact&theme=merko" alt="selina-khatun" /></p>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=selina-khatun&theme=merko" alt="GitHub Streak" /></a>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selina-khatun&show_icons=true&locale=en&theme=merko" alt="selina-khatun" /></p>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=selina-khatun&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Selina-Khatun&theme=merko&type=png)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Selina-Khatun&theme=merko&type=png" alt="GitHub Streak" /></a>
 
 <h1> Projects</h1>
 <h3>our Brand Shop - Beauty and Cosmetics</h3>
+
 
 
 <h4> live site:</h4>
