@@ -39,9 +39,7 @@ Skills:  REACT / JS / HTML / CSS
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selina-khatun&show_icons=true&locale=en&layout=compact" alt="selina-khatun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selina-khatun&show_icons=true&locale=en&theme=merko" alt="selina-khatun" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=selina-khatun&theme=dark)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selina-khatun" alt="selina-khatun" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=selina-khatun" alt="GitHub Streak" /></a>
 
 
 <h1> Projects</h1>
