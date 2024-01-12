@@ -47,10 +47,10 @@ Skills:  REACT / JS / HTML / CSS
 <br/>
 <br/>
 <br/>
- <br/>
- 
+<br/>
+## 
  # Projects
-<h3>our Brand Shop - Beauty and Cosmetics</h3>
+<h1>our Brand Shop - Beauty and Cosmetics</h1>
 
 <h4> live site:</h4>
 [https://brand-shop-client-e82f9.web.app]
