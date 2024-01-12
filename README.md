@@ -48,7 +48,6 @@ Skills:  REACT / JS / HTML / CSS
 <br/>
 <br/>
 <br/>
-## 
 # Projects
 <h1>our Brand Shop - Beauty and Cosmetics</h1>
 
