@@ -51,8 +51,7 @@ Skills:  REACT / JS / HTML / CSS
 <h1  align="center">Projects</h1>
 <h1 align="center">Our Brand Shop - Beauty and Cosmetics</h1>
 
-<h4> live site:</h4>
-[https://brand-shop-client-e82f9.web.app]
+<h2> live site:</h2>  [https://brand-shop-client-e82f9.web.app]
 <p>
   
 ## Project Overview
@@ -60,7 +59,7 @@ Brand Shop is a client-side web application designed to provide users with a sea
 
 **Product Showcase**: Brand Shop offers an extensive catalog of products from top beauty and cosmetics brands. Users can easily explore a wide range of products, view detailed descriptions, and make informed purchasing decisions.
 
-***User-Friendly Interface***: The user interface is designed to be intuitive and easy to navigate. With a clean and modern design, users can effortlessly browse through the website, search for specific products, and add them to their cart.
+**User-Friendly Interface**: The user interface is designed to be intuitive and easy to navigate. With a clean and modern design, users can effortlessly browse through the website, search for specific products, and add them to their cart.
 
 **Cart Management**: Users can add products to their shopping cart and review their selections before proceeding to checkout. The cart provides a summary of selected items, including their names, prices, and quantities.
 
@@ -69,10 +68,10 @@ Brand Shop is a client-side web application designed to provide users with a sea
 **Responsive Design**: The website is responsive and mobile-friendly, ensuring that users can access and shop for beauty products from their desktops, tablets, or smartphones with ease.
 </p>
 <h1 align="center">Restaurant-management</h1>
- <h4>live link:</h4>
-  [https://cut-pail-test.surge.sh/]
+ <h2>live link:</h2>  [https://cut-pail-test.surge.sh/]
  <p> 
- 
+## Project Overview
+   
 **Intuitive Interface**: Ensure a user-friendly design for easy navigation and accessibility.
 
  **Real-time Updates**: Provide dynamic content, allowing instant changes to menus, prices, and promotions.
