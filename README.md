@@ -42,7 +42,8 @@ Skills:  REACT / JS / HTML / CSS
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selina-khatun&theme=merko" alt="selina-khatun" /></p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selina-khatun&show_icons=true&locale=en&layout=compact&theme=merko" alt="selina-khatun" /></p> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selina-khatun&show_icons=true&locale=en&layout=compact&theme=merko" alt="selina-khatun" /></p>   
+<br/>
 
 <h1> Projects</h1>
 <h3>our Brand Shop - Beauty and Cosmetics</h3>
