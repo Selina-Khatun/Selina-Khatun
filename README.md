@@ -9,11 +9,12 @@ Skills:  REACT / JS / HTML / CSS
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selina-khatun&label=Profile%20views&color=0e75b6&style=flat" alt="selina-khatun" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selina-khatun" alt="selina-khatun" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selina-khatun&label=Profile%20views&color=0e75b6&style=flat" alt="selina-khatun" /> </p>
 
 - 🔭 I’m currently working on [youtube](http://www.youtube.com/@learnwithSeli)
 
