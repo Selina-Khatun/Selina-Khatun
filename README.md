@@ -45,13 +45,10 @@ Skills:  REACT / JS / HTML / CSS
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selina-khatun&show_icons=true&locale=en&layout=compact&theme=merko" alt="selina-khatun" /></p>   
 <br/>
 <br/>
-## 
 <br/>
 <br/>
-<h1> Projects</h1> <br/>
+ # Projects <br/>
 <h3>our Brand Shop - Beauty and Cosmetics</h3>
-
-
 
 <h4> live site:</h4>
 [https://brand-shop-client-e82f9.web.app]
