@@ -68,7 +68,7 @@ Brand Shop is a client-side web application designed to provide users with a sea
 **Responsive Design**: The website is responsive and mobile-friendly, ensuring that users can access and shop for beauty products from their desktops, tablets, or smartphones with ease.
 </p>
 <h1 align="center">Restaurant-management</h1>
- <h2>live link:</h2>  [https://cut-pail-test.surge.sh/]
+ <h2>live link:  [https://cut-pail-test.surge.sh/] </h2>
  <p> 
    
 ## Project Overview
