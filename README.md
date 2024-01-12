@@ -48,8 +48,8 @@ Skills:  REACT / JS / HTML / CSS
 <br/>
 <br/>
 <br/>
-<b><h1  align="center">Project</h1></b>
-<h1>our Brand Shop - Beauty and Cosmetics</h1>
+<h1  align="center">Projects</h1>
+<h1 align="center">our Brand Shop - Beauty and Cosmetics</h1>
 
 <h4> live site:</h4>
 [https://brand-shop-client-e82f9.web.app]
@@ -68,7 +68,7 @@ Brand Shop is a client-side web application designed to provide users with a sea
 
 **Responsive Design**: The website is responsive and mobile-friendly, ensuring that users can access and shop for beauty products from their desktops, tablets, or smartphones with ease.
 </p>
-<h3>restaurant-management</h3>
+<h1 align="center">restaurant-management</h1>
  <h4>live link:</h4>
   [https://cut-pail-test.surge.sh/]
  <p> 
